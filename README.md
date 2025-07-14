@@ -1,4 +1,4 @@
-# Hey, this is Umar Waris
+# Hey, this is Muhammad Umar
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/mumardev/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>  
