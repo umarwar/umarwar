@@ -1,17 +1,14 @@
-# Hey, this is Muhammad Umar
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> I'm **Umar**.
 
-<p align="center">
-	<a href="https://www.linkedin.com/in/mumardev/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>  
-</p>
+AI/ML Engineer passionate about building and deploying intelligent systems. I currently work as a Machine Learning Engineer at **Setubo**, where I design and deploy scalable RAG & Agent pipelines, containerized APIs, and LLM-driven solutions to automate workflows and enhance semantic retrieval. I'm deeply involved in the full lifecycle - from data ingestion and model optimization to CI/CD and monitoring.
 
-Here are somethings about me:
-<br />
+My work revolves around creating systems that handle everything from high-volume data processing to delivering real-time, user-facing AI features.
 
-- 🔭 I’m currently working as Machine Learning Engineer at Setubo.
-- 👨‍💻 I'm a competitive programmer and a AI enthusiast (I can't imagine building anything without it).
-- 💼 Experienced in Python and its related ecosystems.
-- 💬 I am looking for any new opportunities and my inbox is always open
-- 📫 How to reach me: [umarwaris450@gmail.com](mailto:umarwaris450@gmail.com) or <a href="https://www.linkedin.com/in/mumardev/">Linkedin</a>
+Outside of code, I'm a competitive programmer and a lifelong learner, constantly exploring AI advancements. I'm always open to discussing new opportunities and collaborations in the AI space.<br>
+How to reach me 📫: [umarwaris450@gmail.com](mailto:umarwaris450@gmail.com)
+
+#### Let's connect!
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mumardev)
 
 <!--
 ## 🔧 Technologies
